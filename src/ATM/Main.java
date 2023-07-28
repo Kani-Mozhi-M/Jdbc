@@ -39,9 +39,9 @@ public class Main {
                     while (rs.next()) {
                         passdb = rs.getInt(1);
                         if (pass == passdb) {
-                            System.out.println("success" + passdb);
+                            System.out.println(".......you may proceed further.........");
                         } else
-                            System.out.println("wrong pass");
+                            System.out.println("wrong password.......try again");
                     }
 
                 }
