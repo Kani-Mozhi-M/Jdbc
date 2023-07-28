@@ -20,7 +20,7 @@ public class Main {
             System.out.println("press 0 to enter pass");
             System.out.println("press 1 to withdraw");
             System.out.println("press 2 to deposit");
-            System.out.println("press 3 to see balance withdrawAmount");
+            System.out.println("press 3 to see balance ");
             System.out.println("press 4 to exit");
 
             System.out.println("enter your choice to continue ");
